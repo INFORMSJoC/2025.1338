@@ -10,6 +10,12 @@ research reported on in the paper
 [PROPEL: Supervised and Reinforcement Learning for Large-Scale Supply Chain Planning](https://doi.org/10.1287/ijoc.2025.1338)
 by V. Eghbal Akhlaghi, R. Zandehshahvar, and P. Van Hentenryck.
 
+**Code availability.** The source code for the proposed method, including the
+learning implementation and the scripts used to run the computational
+experiments, cannot be released. It was developed under a nondisclosure
+agreement with the industrial partner. Substantial implementation details are
+provided in the paper and the online supplement to support reproducibility.
+
 **This repository provides sample supply chain planning instances. These
 synthetic benchmark instances are similar in structure and scale to the instances described
 in Section 8.1 of the paper; they are not the same instances used in the
