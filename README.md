@@ -37,9 +37,9 @@ Below is the BibTeX for citing this snapshot of the repository.
 
 ```
 @misc{PROPELInstances,
-  author =        {V. Eghbal Akhlaghi and R. Zandehshahvar and P. Van Hentenryck},
+  author =        {Eghbal Akhlaghi, Vahid and Zandehshahvar, Reza and Van Hentenryck, Pascal},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{PROPEL}: Supervised and Reinforcement Learning for Large-Scale Supply Chain Planning -- Sample Instances},
+  title =         {{PROPEL}: Supervised and Reinforcement Learning for Large-Scale Supply Chain Planning},
   year =          {2026},
   doi =           {10.1287/ijoc.2025.1338.cd},
   url =           {https://github.com/INFORMSJoC/2025.1338},
